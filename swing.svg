@@ -1,4 +1,7 @@
-<svg width="800" height="600" >
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="600" >
 	<polygon points="400,215 380,420 420,420" style="fill:purple;stroke:purple;stroke-width:1" />
     
  <g transform="rotate(-20,400,215)"> <!-- rotation around the point 400,215 -->
