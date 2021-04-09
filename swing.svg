@@ -1,0 +1,11 @@
+<svg width="800" height="600" >
+	<polygon points="400,215 380,420 420,420" style="fill:purple;stroke:purple;stroke-width:1" />
+    
+ <g transform="rotate(-20,400,215)"> <!-- rotation around the point 400,215 -->
+  	<rect  x="200" y="200" width="400" height="30" style="fill:rgb(200,0,200);stroke-width:3;stroke:rgb(0,0,0)" />  
+    <rect  x="200" y="170" width="400" height="0.1" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(0,0,0)" />  
+    <text x="380" y="160" fill="black">4 m</text>        
+  </g>
+  
+  <circle cx="400" cy="215" r="12" stroke="black" stroke-width="3" fill="lightgrey" /> 
+</svg> 
